@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: rgb(255, 255, 255);
+    display: block;
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#tablero{
+    display: grid;
+    background-color: #000000;
+}
