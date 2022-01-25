@@ -43,7 +43,7 @@ function actualizarPantalla(){
     designObjetivo(xRandom,yRandom);
 } 
 
-setInterval(actualizarPantalla,500)
+setInterval(actualizarPantalla,600)
 
 
 
@@ -60,7 +60,7 @@ function disparar(ev){
       (x>xRandom-radio)&&
       (y<yRandom+radio)&&
       (y>yRandom-radio)){
-        alert("hola")
+        alert("¡Acertó!")
     }
 
 

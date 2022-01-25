@@ -10,6 +10,11 @@ h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+h1:hover{
+    color: #ff0000;
+    font-size: 8rem;
+}
+
 #tablero{
     display: grid;
     background-color: #000000;
